@@ -1,5 +1,5 @@
 # Algorithms
-Implementation of some basic algorithms in different languages.
+Implementation of some basic algorithms in different languages. Did this to get a better understanding of the algorithms.
 
 ## Binary Search Algorithm
 ## Breadth First Search (BFS) Algorithm
