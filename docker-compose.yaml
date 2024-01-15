@@ -1,9 +1,9 @@
 version: '3.8'
 
 services:
-  algorithms:
-    container_name: algorithms
-    image: 'algorithms'
+  playground:
+    container_name: playground
+    image: 'playground'
     tty: true
     build:
       context: .
