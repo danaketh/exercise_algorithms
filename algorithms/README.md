@@ -1,17 +1,25 @@
 # Algorithms
-Implementation of some basic algorithms in different languages. Did this to get a better understanding of the algorithms.
+Implementation of some basic algorithms in different languages.
 
 ## Binary Search Algorithm
 ## Breadth First Search (BFS) Algorithm
 ## Depth First Search (DFS) Algorithm
 ## Merge Sort Algorithm
+Merge sort is a classic divide-and-conquer algorithm for sorting. It divides the input array into two halves, calls itself for the two halves, and then merges the sorted halves.
+
+
+- [ ] Go
+- [ ] PHP
+- [ ] Python
+
 ## Quicksort Algorithm
 Quicksort is a divide-and-conquer algorithm. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively. This can be done in-place, requiring small additional amounts of memory to perform the sorting.
 
 - [x] Bash (proof of concept)
-- [ ] Go
+- [x] Go
 - [x] PHP
 - [ ] Python
+- [ ] Rust
 
 ## Kruskal’s Algorithm
 ## Floyd Warshall Algorithm
